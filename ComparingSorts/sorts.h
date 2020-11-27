@@ -2,7 +2,7 @@
 #define SORTS_H_INCLUDED
 
 #include <algorithm>  
-
+//Adam Angel and Rick Halterman
 // Performs a selection sort on the sequence [begin...end).
 template <typename Iter>
 void selection_sort(Iter begin, Iter end) {
